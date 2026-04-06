@@ -1,4 +1,4 @@
-# sales-dashboard-project
+# Sales-dashboard-project
 Sales data analysis with charts and insights
 ## Project Overview
 This project demonstrates hands-on experience in **data cleaning, analysis, and visualization** using Microsoft Excel. The goal was to provide actionable insights into sales trends, top performers, and product performance to inform business decisions.
