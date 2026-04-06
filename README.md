@@ -11,6 +11,7 @@ This project demonstrates hands-on experience in **data cleaning, analysis, and 
 - **Sales Profit by City:** Shows most profitable regions
 - **Sales by Product Types:** Tracks performance of individual product types
 - **Sales Dataset:** Full raw data for reference and analysis
+- [Download Sales Dashboard (Excel)](sales_chartsanddashboards.xlsx)
   ## Skills Used
 - Microsoft Excel  
 - Data Cleaning & Analysis  
